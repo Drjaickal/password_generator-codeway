@@ -22,4 +22,8 @@ Add options to specify password length
 Implement functionality to copy the generated password to the clipboard
 Include additional character sets (e.g., special characters)
 
+![WhatsApp Image 2024-04-15 at 1 47 26 PM](https://github.com/Drjaickal/password_generator-codeway/assets/105309360/718d07f1-c597-4a54-a812-011f9fbbd641)
+
+
+![WhatsApp Image 2024-04-15 at 1 47 13 PM](https://github.com/Drjaickal/password_generator-codeway/assets/105309360/b13e6046-1b3c-4f8a-9a5c-83bdc508b171)
 
